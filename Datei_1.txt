@@ -1,1 +1,5 @@
 // Kommentarzeile
+
+public CLass {
+
+}

@@ -3,7 +3,8 @@ public class MyClass {
 
    	public static void main(String[] args) {
 		
-    String a = "abc";
+    	// just a comment oder so
+         String a = "abcd";
 
 	}
 

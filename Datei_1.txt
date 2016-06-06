@@ -1,0 +1,10 @@
+// Kommentarzeile neu
+
+public CLass {
+
+   public static void main(Strin[] args) {
+
+   }
+
+}
+

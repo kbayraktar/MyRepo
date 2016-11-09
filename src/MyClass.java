@@ -5,7 +5,7 @@ public class MyClass {
 		
     String a = "abc";
     
-    System.println("Das Alfabet beginnt mit: " + a);
+    System.println("Das Alphaabet beginnt mit: " + a);
 
 	}
 

@@ -1,2 +1,2 @@
 # MyRepo
-Das ist nur zu Testzwecken, das ist wahr.
+Das ist nur zu Testzwecken, das ist wohl wahr.

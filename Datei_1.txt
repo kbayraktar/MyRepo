@@ -3,7 +3,7 @@
 public CLass {
 
    public static void main(Strin[] args) {
-
+    System.println("What");
    }
 
 }

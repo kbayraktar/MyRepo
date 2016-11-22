@@ -3,11 +3,7 @@
 public CLass {
 
    public static void main(Strin[] args) {
-<<<<<<< HEAD
-    System.println("What is");
-=======
     System.println("What is this denn");
->>>>>>> cf79be1... text changed
    }
 
 }

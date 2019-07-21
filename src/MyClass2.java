@@ -6,7 +6,7 @@ public class MyClass2 {
     String a = "abc";
     String b = "xyz";
     String c = "dgf";
-    String z = "xyz";   
+    String z = "xxx";   
     }
 
 }

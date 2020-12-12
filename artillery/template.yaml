@@ -1,0 +1,8 @@
+config: artillery
+  - scenarios: 
+    tst: 
+      p95: 200
+      p99: 1000
+    abn: 
+      p95: 300
+      p99: 1500

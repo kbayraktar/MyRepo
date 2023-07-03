@@ -1,1 +1,0 @@
-print("Das ma was")
